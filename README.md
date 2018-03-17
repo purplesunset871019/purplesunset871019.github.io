@@ -9,6 +9,9 @@
 }
   
   
+  .larger-image { 
+    width：500px; 
+  }
   
   
   

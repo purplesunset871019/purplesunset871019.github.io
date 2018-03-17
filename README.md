@@ -27,13 +27,13 @@
     background-color: black;
   }
   
-   .smaller-image {
-    width: 100px;
+   .larger-image {
+    width: 700px;
   }
 </style>
 
 <h2 class="white-text"> WOT-tanks</h2>
-<img class="smaller-image" src="https://static-ptl-us.gcdn.co/dcont/fb/image/ontrack_header_684x280.png" alt="British medium tank ">
+<img class="larger-image" src="https://static-ptl-us.gcdn.co/dcont/fb/image/ontrack_header_684x280.png" alt="British medium tank ">
  
 <p class="yellow-text">UK Tier X medium tank</p>
  

@@ -5,7 +5,6 @@
   </head>
 
 <style>
-
   .white-text {
     color: white;
   }
@@ -23,7 +22,6 @@
   body {
     background-color: black;
   }
-  
 </style>
 
 <h2 class="white-text"> WOT-tanks</h2>

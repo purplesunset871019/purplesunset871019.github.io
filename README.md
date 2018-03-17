@@ -7,23 +7,13 @@
     h2 {
   font-size: 40px;
 }
-  
-  
-
-  
+    
   .thin-red-border { 
     border-color：white; 
     border-width：2px; 
     border-style：solid; 
   } 
   
-  
-  
-  
-  
-  
-  
-
 </style>
 
 <h2 class="white-text"> WOT-tanks</h2>

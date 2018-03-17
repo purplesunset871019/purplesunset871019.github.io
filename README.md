@@ -10,7 +10,7 @@
   
   
   .smaller-image { 
-    width：500px; 
+    width：100px; 
   }
   
   

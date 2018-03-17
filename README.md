@@ -15,6 +15,10 @@
   .red-text {
     color: red;
   }
+  
+    h1 {
+  font-size: 60px;
+}
   
     h2 {
   font-size: 40px;

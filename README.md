@@ -32,4 +32,4 @@
 <img src="https://static-ptl-us.gcdn.co/dcont/fb/image/ontrack_header_684x280.png" alt="British medium tank " class=smaller-image >
 
  
-<a href="https://worldoftanks.asia/zh-tw/">Submit</button> <button type="submit" ></a>
+<a href="https://worldoftanks.asia/zh-tw/">Submit</button> <button type="Official website" ></a>

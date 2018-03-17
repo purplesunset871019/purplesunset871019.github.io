@@ -1,3 +1,9 @@
+<html>
+<head>
+<meta charset="utf-8">
+  <title style = "color:red">welcome my website</title>
+  </head>
+
 <style>
 
   .white-text {

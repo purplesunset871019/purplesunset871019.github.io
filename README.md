@@ -4,7 +4,9 @@
     color: blue;
   }
   
-  
+    h2 {
+  font-size: 40px;
+}
   
   
   

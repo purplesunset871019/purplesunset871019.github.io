@@ -9,9 +9,7 @@
 }
   
   
-  .smaller-image { 
-    width：100px; 
-  }
+
   
   .thin-red-border { 
     border-color：white; 
@@ -33,3 +31,9 @@
 
  
 <a href="https://worldoftanks.asia/zh-tw/">Submit</button> <button type="Official website" ></a>
+
+<form action="/submit-cat-photo">
+
+  <label><input type="radio" name="indoor-outdoor" checked> Indoor</label>
+  <label><input type="radio" name="indoor-outdoor"> Outdoor</label>
+  </form>

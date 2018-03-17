@@ -30,6 +30,6 @@
   <label><input type="radio" name="like-dislike" checked> like</label>
   <label><input type="radio" name="like-dislike"> dislike</label>
   
-  <a href="https://fthmb.tqn.com/LhHWsTiDL7S0Ik2eh72h4ljg5gw=/3865x2576/filters:fill(auto,1)/thank-you-185078737-58adfa013df78c345b0837e7.jpg"> <button type="Official website" >Submit</button></a>
+  <a href="https://fthmb.tqn.com/LhHWsTiDL7S0Ik2eh72h4ljg5gw=/3865x2576/filters:fill(auto,1)/thank-you-185078737-58adfa013df78c345b0837e7.jpg"> <button type="submite" >Submit</button></a>
   
   </form>

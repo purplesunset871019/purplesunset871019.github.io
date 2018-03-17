@@ -2,8 +2,7 @@
 <head>
 <meta charset="utf-8">
   <title style = "color:red">welcome my website</title>
-  </head>
-<body>
+
 <style>
   .white-text {
     color: white;
@@ -33,6 +32,11 @@
   
 
 </style>
+
+
+</head>
+<body>
+
 
 <h1 class="red-text">welcome my website</h1>
 

@@ -34,6 +34,6 @@
 
 <form action="/submit-cat-photo">
 
-  <label><input type="radio" name="indoor-outdoor" checked> Indoor</label>
-  <label><input type="radio" name="indoor-outdoor"> Outdoor</label>
+  <label><input type="radio" name="like-dislike" checked> like</label>
+  <label><input type="radio" name="like-dislike"> dislike</label>
   </form>

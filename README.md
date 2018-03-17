@@ -23,7 +23,7 @@
 <h2 class="white-text"> WOT-tanks</h2>
 <img src="https://static-ptl-us.gcdn.co/dcont/fb/image/ontrack_header_684x280.png" alt="British medium tank ">
  
-<p>UK Tier X medium tank</p>
+<p class="white-text">UK Tier X medium tank</p>
  
 <a href="https://worldoftanks.asia/zh-tw/"> <button type="submite" >Official website</button></a>
 

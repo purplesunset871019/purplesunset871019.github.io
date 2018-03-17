@@ -9,7 +9,7 @@
 }
   
   
-  .larger-image { 
+  .smaller-image { 
     width：500px; 
   }
   

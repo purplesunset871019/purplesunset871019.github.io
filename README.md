@@ -1,6 +1,6 @@
 <style>
 
-  .red-text {
+  .blue-text {
     color: blue;
   }
   
@@ -19,4 +19,4 @@
 
 </style>
 
-<h2 class="red-text"> wot-tanks</h2>
+<h2 class="blue-text"> wot-tanks</h2>

@@ -35,4 +35,6 @@
 
   <label><input type="radio" name="like-dislike" checked> like</label>
   <label><input type="radio" name="like-dislike"> dislike</label>
+  
+  <button type="submit">Thanks you</button>
   </form>

@@ -14,6 +14,10 @@
     border-style：solid; 
   } 
   
+  body {
+    background-color: black;
+  }
+  
 </style>
 
 <h2 class="white-text"> WOT-tanks</h2>

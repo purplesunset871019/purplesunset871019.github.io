@@ -1,1 +1,22 @@
-<h2 style="color: red"> wot-tanks</h2>
+<style>
+
+  .red-text {
+    color: red;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+</style>
+
+<h2 class="red-text"> wot-tanks</h2>

@@ -13,6 +13,10 @@
     color: yellow;
   }
   
+  .red-text {
+    color: red;
+  }
+  
     h2 {
   font-size: 40px;
 }
@@ -27,13 +31,13 @@
     background-color: black;
   }
   
-   .larger-image {
-    width: 700px;
-  }
+
 </style>
 
+<h1 class="red-text">welcome my website</h1>
+
 <h2 class="white-text"> WOT-tanks</h2>
-<img class="larger-image" src="https://static-ptl-us.gcdn.co/dcont/fb/image/ontrack_header_684x280.png" alt="British medium tank ">
+<img src="https://static-ptl-us.gcdn.co/dcont/fb/image/ontrack_header_684x280.png" alt="British medium tank ">
  
 <p class="yellow-text">UK Tier X medium tank</p>
  

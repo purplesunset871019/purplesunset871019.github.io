@@ -1,7 +1,7 @@
 <style>
 
   .red-text {
-    color: red;
+    color: blue;
   }
   
   
